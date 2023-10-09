@@ -1,3 +1,6 @@
+/*
+  A little '@' that can move around in a floor of '+'s.
+*/
 #include <ncurses.h>
 #include <stdlib.h>
 
